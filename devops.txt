@@ -1,0 +1,4 @@
+1.Aws account creation
+2.Budget alarm
+3.MFA
+4.Creating windows server
